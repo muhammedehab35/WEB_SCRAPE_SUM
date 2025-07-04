@@ -21,14 +21,13 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 ---
 ## 📁 Project Structure
-
-.
+<pre>
 ├── app.py              # Streamlit frontend
 ├── summarizer.py       # Backend: parsing, summarization, QA logic
 ├── requirements.txt
 ├── .env                # API key (not pushed to GitHub)
 └── README.md
-
+<pre>
 ---
 
 ## ⚙️ Installation
