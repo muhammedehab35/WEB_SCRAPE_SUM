@@ -4,9 +4,6 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 - ✅ Generate a concise and structured summary of the page
 - ❓ Ask detailed questions about the page content
 - 💬 Get accurate answers based strictly on the website data (RAG-like behavior)
-
-Powered by [OpenAI GPT models](https://platform.openai.com/docs) and [Streamlit](https://streamlit.io/), this app extracts and processes the text content of any URL and provides an interactive question-answering interface.
-
 ---
 
 ## 🚀 Features
