@@ -20,6 +20,9 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 --- 
+## ▶️ Run the App
+streamlit run app.py
+---
 ## 📦 Dependencies
 
 This project depends on the following main Python libraries:
