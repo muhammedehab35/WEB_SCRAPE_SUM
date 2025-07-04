@@ -15,22 +15,10 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 - 🧠 Acts like a focused RAG (Retrieval-Augmented Generation) assistant
 
 ---
-https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link
 
 ## 🎥 Demo Video
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
-
----
-
-## 🧑‍💻 Tech Stack
-
-- `Python 3.10+`
-- `Streamlit`
-- `OpenAI API (GPT-4o-mini)`
-- `BeautifulSoup4` (for HTML parsing)
-- `.env` (for API key management)
-
 ---
 
 ## ⚙️ Installation
