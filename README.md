@@ -42,7 +42,8 @@ This project depends on the following main Python libraries:
 ├── requirements.txt
 ├── .env               
 └── README.md
-<pre>   ---
+</pre>
+---
 
 ## ⚙️ Installation
 
