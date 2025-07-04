@@ -37,6 +37,7 @@ This project depends on the following main Python libraries:
 
 streamlit run app.py
 ---
+---
 ## 📁 Project Structure
 <pre>
 ├── app.py              # Streamlit frontend
