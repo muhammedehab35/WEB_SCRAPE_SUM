@@ -21,6 +21,7 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 ---
 ## 📁 Project Structure
+
 .
 ├── app.py              # Streamlit frontend
 ├── summarizer.py       # Backend: parsing, summarization, QA logic
@@ -29,6 +30,7 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 └── README.md
 
 ---
+
 ## ⚙️ Installation
 
 ```bash
@@ -41,7 +43,7 @@ source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
 ---
-▶️ Run the App
+## ▶️ Run the App
 streamlit run app.py
 ---
 
@@ -51,6 +53,5 @@ by @muhammedehab
 
 ## 📜 License
 MIT
----
 
 
