@@ -19,15 +19,31 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 ## 🎥 Demo Video
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
+--- 
+---
 
+## 📦 Dependencies
+
+This project depends on the following main Python libraries:
+
+| Package              | Description                                      |
+|----------------------|--------------------------------------------------|
+| `streamlit`          | Web interface for interactive user input         |
+| `openai`             | To access OpenAI's GPT models via API            |
+| `beautifulsoup4`     | To parse and extract text content from webpages  |
+| `requests`           | To make HTTP requests and fetch webpage content  |
+| `python-dotenv`      | For loading environment variables securely       |
+
+---
 ## 📁 Project Structure
 <pre>
 ├── app.py              # Streamlit frontend
 ├── summarizer.py       # Backend: parsing, summarization, QA logic
 ├── requirements.txt
-├── .env                # API key (not pushed to GitHub)
+├── .env               
 └── README.md
 <pre> 
+---
 
 ## ⚙️ Installation
 
