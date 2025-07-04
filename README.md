@@ -59,9 +59,10 @@ source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
 ---
-
+---
 ## 👤 Author
 by @muhammedehab
+---
 ---
 
 ## 📜 License
