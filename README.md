@@ -20,8 +20,6 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 --- 
----
-
 ## 📦 Dependencies
 
 This project depends on the following main Python libraries:
@@ -46,7 +44,6 @@ This project depends on the following main Python libraries:
 ---
 
 ## ⚙️ Installation
-
 ```bash
 git clone https://github.com/muhammedehab35/WEB_SCRAPE_SUM.git
 cd Projects_01
@@ -56,9 +53,7 @@ python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
-
 ---
-
 ## ▶️ Run the App
 streamlit run app.py
 ---
