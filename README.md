@@ -53,12 +53,11 @@ streamlit run app.py
 git clone https://github.com/muhammedehab35/WEB_SCRAPE_SUM.git
 cd Projects_01
 
-# Create a virtual environment
+Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
----
 ---
 ## 👤 Author
 by @muhammedehab
