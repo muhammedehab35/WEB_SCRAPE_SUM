@@ -15,10 +15,11 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 - 🧠 Acts like a focused RAG (Retrieval-Augmented Generation) assistant
 
 ---
+https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link
 
-## 🖼 Demo Screenshot
+## 🎥 Demo Video
 
-![screenshot](./screenshot.png) 
+[Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 
 ---
 
