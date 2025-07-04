@@ -20,7 +20,15 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
 ---
+## 📁 Project Structure
+.
+├── app.py              # Streamlit frontend
+├── summarizer.py       # Backend: parsing, summarization, QA logic
+├── requirements.txt
+├── .env                # API key (not pushed to GitHub)
+└── README.md
 
+---
 ## ⚙️ Installation
 
 ```bash
@@ -32,3 +40,17 @@ python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
+---
+▶️ Run the App
+streamlit run app.py
+---
+
+## 👤 Author
+by @muhammedehab
+---
+
+## 📜 License
+MIT
+---
+
+
