@@ -24,10 +24,10 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/webpage-analyzer-chat
-cd webpage-analyzer-chat
+git clone https://github.com/muhammedehab35/WEB_SCRAPE_SUM.git
+cd Projects_01
 
-# (Optional) Create a virtual environment
+# Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
