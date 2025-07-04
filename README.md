@@ -12,14 +12,13 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 - 🧹 Clean and extract meaningful content (ignoring scripts, navbars, etc.)
 - 📝 Generate a smart summary of the main text
 - 💡 Ask follow-up questions about the site
-- ⚡ Uses GPT-4o-mini for lightweight fast performance
 - 🧠 Acts like a focused RAG (Retrieval-Augmented Generation) assistant
 
 ---
 
 ## 🖼 Demo Screenshot
 
-![screenshot](./screenshot.png) <!-- Optional, if you add a screenshot -->
+![screenshot](./screenshot.png) 
 
 ---
 
