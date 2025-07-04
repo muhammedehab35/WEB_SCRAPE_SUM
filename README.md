@@ -33,8 +33,8 @@ This project depends on the following main Python libraries:
 | `python-dotenv`      | For loading environment variables securely       |
 
 ---
---- 
 ## ▶️ Run the App
+
 streamlit run app.py
 ---
 ## 📁 Project Structure
