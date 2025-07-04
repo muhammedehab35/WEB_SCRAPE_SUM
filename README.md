@@ -19,9 +19,6 @@ This is an intelligent assistant that analyzes any public webpage and allows you
 ## 🎥 Demo Video
 
 [Click to watch the demo on Google Drive](https://drive.google.com/file/d/1QMWz4-Kp5oVGJhXAW1jsbF-aPtrVOHFO/view?usp=drive_link)
---- 
-## ▶️ Run the App
-streamlit run app.py
 ---
 ## 📦 Dependencies
 
@@ -35,6 +32,10 @@ This project depends on the following main Python libraries:
 | `requests`           | To make HTTP requests and fetch webpage content  |
 | `python-dotenv`      | For loading environment variables securely       |
 
+---
+--- 
+## ▶️ Run the App
+streamlit run app.py
 ---
 ## 📁 Project Structure
 <pre>
@@ -56,9 +57,6 @@ python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
----
-## ▶️ Run the App
-streamlit run app.py
 ---
 
 ## 👤 Author
